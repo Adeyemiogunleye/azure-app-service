@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AdeyemiOgunleye\\Downloads\\dotnet\\azure-app-unique\\azure-app-unique.csproj",
+      "projectUniqueName": "C:\\Users\\AdeyemiOgunleye\\Downloads\\vscode\\azure-app-service\\azure-app-unique.csproj",
       "projectName": "azure-app-unique",
-      "projectPath": "C:\\Users\\AdeyemiOgunleye\\Downloads\\dotnet\\azure-app-unique\\azure-app-unique.csproj",
+      "projectPath": "C:\\Users\\AdeyemiOgunleye\\Downloads\\vscode\\azure-app-service\\azure-app-unique.csproj",
       "packagesPath": "C:\\Users\\AdeyemiOgunleye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AdeyemiOgunleye\\Downloads\\dotnet\\azure-app-unique\\obj\\",
+      "outputPath": "C:\\Users\\AdeyemiOgunleye\\Downloads\\vscode\\azure-app-service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AdeyemiOgunleye\\AppData\\Roaming\\NuGet\\NuGet.Config"
