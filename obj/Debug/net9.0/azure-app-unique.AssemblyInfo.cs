@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-unique")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a3d667162ea1ae5f5e9a85446d3f7ed25107733")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba3fc8300ecd88d01fa5b157d08b7eccc19f7ad1")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-unique")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-unique")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
