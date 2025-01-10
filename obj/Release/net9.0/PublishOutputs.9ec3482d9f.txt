@@ -1,0 +1,13 @@
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\azure-app-unique.exe
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\publish\web.config
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\appsettings.Development.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\appsettings.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\publish\appsettings.Development.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\publish\appsettings.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\publish\azure-app-unique.deps.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\publish\azure-app-unique.runtimeconfig.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\publish\azure-app-unique.staticwebassets.endpoints.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\azure-app-unique.dll
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\azure-app-unique.deps.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\azure-app-unique.runtimeconfig.json
+C:\Users\AdeyemiOgunleye\Downloads\dotnet\azure-app-unique\publish\azure-app-unique.pdb
